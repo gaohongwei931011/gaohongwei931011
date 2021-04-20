@@ -1,0 +1,17 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "my blog",
+  "main": "index.js",
+  "author": "Mr.G",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.2"
+  },
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "docs:build": "vuepress build docs",
+    "deploy": "bash deploy.sh"
+  }
+}
