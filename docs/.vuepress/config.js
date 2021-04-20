@@ -1,7 +1,8 @@
 module.exports = {
     title: '前端开发手册',
     description: '前端开发手册，打造完善的知识体系',
-    base: '/',
+    base: '/dist/',
+    dest: '/blog/dist',
     themeConfig: {
         lastUpdated: 'Last Updated',
         // smoothScroll: true,
