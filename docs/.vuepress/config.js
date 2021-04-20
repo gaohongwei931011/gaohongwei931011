@@ -12,6 +12,12 @@ module.exports = {
         repoLabel: 'Github',
         nav: [
             {
+                text: 'H5坑位指南',
+                items: [
+                    { text: 'H5坑位指南', link: '/H5/' },
+                ]
+            },
+            {
                 text: 'Css',
                 items: [
                     { text: 'css文字', link: '/Css/' },
