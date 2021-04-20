@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: http://www.conardli.top/blog/logo.png
+heroImage: /logo.png
 actionText: 开始阅读 →
 actionLink: /Three.js/
 features:
