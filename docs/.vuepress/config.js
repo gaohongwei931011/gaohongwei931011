@@ -25,6 +25,10 @@ module.exports = {
                 }, ]
             },
             {
+                text: 'Vue',
+                link: '/Vue/code'
+            },
+            {
                 text: '项目搭建',
                 items: [{
                         text: 'React',
